@@ -1,5 +1,5 @@
 # Google Web Starter - Middleman
-A quick and dirty Middlman app using Google Web Starter css and js.
+A quick Middlman app using Google Web Starter css and js.
 
 ---
 
